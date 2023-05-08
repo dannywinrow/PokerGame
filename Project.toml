@@ -2,3 +2,8 @@ name = "PokerGame"
 uuid = "e04284d9-d904-4d73-b7dc-f1e01cd9a05d"
 authors = ["dannywinrow <dannywinrow@live.co.uk>"]
 version = "0.1.0"
+
+[deps]
+Cards = "fcda22a9-0d6a-4819-86f5-13bd25ca17c4"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Decimals = "abce61dc-4473-55a0-ba07-351d65e31d42"

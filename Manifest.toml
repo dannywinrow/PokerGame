@@ -1,0 +1,28 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.8.0"
+manifest_format = "2.0"
+project_hash = "bffe77f9314be9416d46522b6804bfddcd30b271"
+
+[[deps.Cards]]
+git-tree-sha1 = "c0d249925b9b075c233cb52572d7b642cce4e184"
+repo-rev = "master"
+repo-url = "https://github.com/dannywinrow/Cards.jl.git"
+uuid = "fcda22a9-0d6a-4819-86f5-13bd25ca17c4"
+version = "0.1.1"
+
+[[deps.Dates]]
+deps = ["Printf"]
+uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
+
+[[deps.Decimals]]
+git-tree-sha1 = "e98abef36d02a0ec385d68cd7dadbce9b28cbd88"
+uuid = "abce61dc-4473-55a0-ba07-351d65e31d42"
+version = "0.4.1"
+
+[[deps.Printf]]
+deps = ["Unicode"]
+uuid = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+
+[[deps.Unicode]]
+uuid = "4ec0a83e-493e-50e2-b9ac-8f72acf5a8f5"

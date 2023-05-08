@@ -37,7 +37,7 @@ Board(board::Union{String,SubString}) = Board([Card(card.match) for card in each
 flop(board::Board) = board.board[1:3]
 turn(board::Board) = board.board[4]
 river(board::Board) = board.board[5]
-Main.Cards.Hand(board::Board) = Hand(board.board)
+Cards.Hand(board::Board) = Hand(board.board)
 Base.empty(Board) = Board([])
 
 struct Player
