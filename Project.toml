@@ -1,4 +1,4 @@
-name = "PokerGame.jl"
+name = "PokerGame"
 uuid = "e04284d9-d904-4d73-b7dc-f1e01cd9a05d"
 authors = ["dannywinrow <dannywinrow@live.co.uk>"]
 version = "0.1.0"
