@@ -10,6 +10,8 @@ import Base.empty
 import Cards.Hand
 import Cards.Card
 
+include("handparser.jl")
+
 @enum Street PREFLOP=0 FLOP=3 TURN=4 RIVER=5
 #@enum Action FOLD CHECK CALL BET RAISE
 
